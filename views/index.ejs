@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>belong ninja | <%= sara %></title>
+</head>
+<body>
+    <%- include('./partials/nav.ejs') %>
+    <div class="blogs content">
+        <h>all blogs</h>
+        <% if (belogs.length>0){%>
+            <%belogs.forEach(bloge=>{%>
+                <h1 class="title"><%= bloge.title %></h1>
+                <p class="snippet"><%= bloge.snippet %></p>
+            <%})%>
+        <%}%>
+    </div>
+
+</body>
+</html>

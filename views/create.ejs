@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document | <%= mohammad %> </title>
+</head>
+<body>
+    <%- include('./partials/nav.ejs') %>
+    <div class="create-blog content">
+        <form>
+            <lapel for="titel">blog titel:</lapel>
+            <input type="text" id="titel " required>
+            <lapel for="snippet">bloge snippet:</lapel>
+            <input type="text" id="snippet" required>
+            <lapel for="body">bloge body:</lapel>
+            <input type="text" id="body" required>
+            <button>submit</button>
+            
+        </form>
+    </div>
+
+</body>
+</html>
