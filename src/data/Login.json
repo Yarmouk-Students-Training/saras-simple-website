@@ -1,0 +1,16 @@
+{
+    "Login": {
+        "Ar":{
+            "Title":"تسجيل الدخول",
+            "phoneNumberText": "رقم الهاتف",
+            "passwordText": "كلمة السر",
+            "ForgotPassword":"هل نسيت كلمة السر؟ انقر هنا"
+        },
+        "En":{
+            "Title":"Login",
+            "phoneNumberText": "Phone Number",
+            "passwordText": "Password",
+            "ForgotPassword":"Forgot Password?"
+        }
+    }
+}

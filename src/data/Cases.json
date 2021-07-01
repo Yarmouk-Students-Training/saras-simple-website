@@ -1,0 +1,134 @@
+{
+    "Post":{
+        "Ar":{
+            "giveAdvice": "قدم مشوره",
+            "Comments" :"التعليقات"
+        },
+        "En":{
+            "giveAdvice": "Give Advice",
+            "Comments" : "Comments"
+        }
+    },
+    "Comment":{
+        "Ar":{
+            "Showless" :"اظهار اقل",
+            "Showmore" :"اظهر المزيد",
+            "Replies" :"الردود"
+        },
+        "En":{
+            "Showless" :"Show less",
+            "Showmore" :"Show more",
+            "Replies" : "Replies"
+        }
+    },
+    "Sidebar":{
+        "Ar":{
+            "Filter" :"تصفية حسب",
+            "categoryName" :"موضوع القضية",
+            "Categories" :[
+                {
+                    "category" : "عمل",
+                    "categoryValue" : "Labour"
+                },
+                {
+                    "category" : "جرائم",
+                    "categoryValue" : "Criminals"
+                },
+                {
+                    "category" : "طلاق",
+                    "categoryValue" : "Divorcing"
+                },
+                {
+                    "category" : "خطاب الكراهية",
+                    "categoryValue" : "Hate speech"
+                },
+                {
+                    "category" : "عمل",
+                    "categoryValue" : "Labour"
+                },
+                {
+                    "category" : "جرائم",
+                    "categoryValue" : "Criminals"
+                },
+                {
+                    "category" : "طلاق",
+                    "categoryValue" : "Divorcing"
+                },
+                {
+                    "category" : "خطاب الكراهية",
+                    "categoryValue" : "Hate speech"
+                },
+                {
+                    "category" : "عمل",
+                    "categoryValue" : "Labour"
+                },
+                {
+                    "category" : "جرائم",
+                    "categoryValue" : "Criminals"
+                },
+                {
+                    "category" : "طلاق",
+                    "categoryValue" : "Divorcing"
+                },
+                {
+                    "category" : "خطاب الكراهية",
+                    "categoryValue" : "Hate speech"
+                }
+            ]
+        },
+        "En":{
+            "Filter" :"Filter By",
+            "categoryName" :"Category",
+            "Categories" :[
+                {
+                    "category" : "Labour",
+                    "categoryValue" : "Labour"
+                },
+                {
+                    "category" : "Criminals",
+                    "categoryValue" : "Criminals"
+                },
+                {
+                    "category" : "Divorcing",
+                    "categoryValue" : "Divorcing"
+                },
+                {
+                    "category" : "Hate speech",
+                    "categoryValue" : "Hate speech"
+                },
+                {
+                    "category" : "Labour",
+                    "categoryValue" : "Labour"
+                },
+                {
+                    "category" : "Criminals",
+                    "categoryValue" : "Criminals"
+                },
+                {
+                    "category" : "Divorcing",
+                    "categoryValue" : "Divorcing"
+                },
+                {
+                    "category" : "Hate speech",
+                    "categoryValue" : "Hate speech"
+                },
+                {
+                    "category" : "Labour",
+                    "categoryValue" : "Labour"
+                },
+                {
+                    "category" : "Criminals",
+                    "categoryValue" : "Criminals"
+                },
+                {
+                    "category" : "Divorcing",
+                    "categoryValue" : "Divorcing"
+                },
+                {
+                    "category" : "Hate speech",
+                    "categoryValue" : "Hate speech"
+                }
+            ]
+        }
+    }
+}

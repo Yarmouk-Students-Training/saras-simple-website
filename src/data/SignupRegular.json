@@ -1,0 +1,185 @@
+{
+    "SignupRegular": {
+        "Ar": {
+            "Form_Title": "اصبح عميل",
+            "Phone_Number": "رقم الهاتف",
+            "Password" : "كلمة السر",
+            "Confirm_Password": "تاكيد كلمة السر",
+            "First_Name" : "الاسم الاول",
+            "Last_Name" : "الاسم الاخير",
+            "Gender" : {
+                "Title" : "الجنس",
+                "genderlist":[
+                    {
+                        "value" : "Male",
+                        "type" : "ذكر"
+                    },
+                    {
+                        "value" : "Female",
+                        "type" : "انثى"
+                    }
+                ]
+            },
+            "Governorate" : {
+                "Title" : "المحافظه",
+                "govs": [
+                    {
+                        "gov_name" : "اربد",
+                        "gov_value" : "Irbid"
+                    },
+                    {
+                        "gov_name" : "عمان",
+                        "gov_value" : "Amman"
+                    },
+                    {
+                        "gov_name" : "الزرقاء",
+                        "gov_value" : "Zarqa"
+                    },
+                    {
+                        "gov_name" : "المفرق",
+                        "gov_value" : "Mafraq"
+                    },
+                    {
+                        "gov_name" : "عجلون",
+                        "gov_value" : "Ajloun"
+                    },
+                    {
+                        "gov_name" : "جرش",
+                        "gov_value" : "Jerash"
+                    },
+                    {
+                        "gov_name" : "مأدبا",
+                        "gov_value" : "Madaba"
+                    },
+                    {
+                        "gov_name" : "البلقاء",
+                        "gov_value" : "Balqa"
+                    },
+                    {
+                        "gov_name" : "الكرك",
+                        "gov_value" : "Karak"
+                    },
+                    {
+                        "gov_name" : "الطفيله",
+                        "gov_value" : "Tafileh"
+                    },
+                    {
+                        "gov_name" : "العقبه",
+                        "gov_value" : "Aqaba"
+                    },
+                    {
+                        "gov_name": "معان",
+                        "gov_value": "Maan"
+                    }
+                ]
+            },
+            "Links" : [
+                {
+                    "text":"هل انت محامي؟ انقر هنا",
+                    "path":"/signup/lawyer"
+                },
+                {
+                    "text":"هل لديك حساب؟ تسجيل الدخول",
+                    "path":"/login/regular"
+                }
+            ],
+            "Allow_Notifications" : "اشعارات",
+            "Register_Btn" : "انشاء حساب",
+            "MessageSent": "تم ارسال رساله لرقم الهاتف",
+            "Code":"رقم التأكيد",
+            "Verify_Btn" : "تأكيد",
+            "LawyerQuestionMark":"هل انت محامي؟ قم بالتسجيل هنا"
+        },
+        "En": {
+            "Form_Title": "Become a Client",
+            "Phone_Number": "Phone Number",
+            "Password" : "Password",
+            "Confirm_Password": "Confirm Password",
+            "First_Name" : "First Name",
+            "Last_Name" : "Last Name",
+            "Gender" : {
+                "Title" : "Gender",
+                "genderlist":[
+                    {
+                        "value" : "Male",
+                        "type" : "Male"
+                    },
+                    {
+                        "value" : "Female",
+                        "type" : "Female"
+                    }
+                ]
+                
+            },
+            "Governorate" : {
+                "Title" : "Governorate",
+                "govs": [
+                    {
+                        "gov_name" : "Irbid",
+                        "gov_value" : "Irbid"
+                    },
+                    {
+                        "gov_name" : "Amman",
+                        "gov_value" : "Amman"
+                    },
+                    {
+                        "gov_name" : "Zarqa",
+                        "gov_value" : "Zarqa"
+                    },
+                    {
+                        "gov_name" : "Mafraq",
+                        "gov_value" : "Mafraq"
+                    },
+                    {
+                        "gov_name" : "Ajloun",
+                        "gov_value" : "Ajloun"
+                    },
+                    {
+                        "gov_name" : "Jerash",
+                        "gov_value" : "Jerash"
+                    },
+                    {
+                        "gov_name" : "Madaba",
+                        "gov_value" : "Madaba"
+                    },
+                    {
+                        "gov_name" : "Balqa",
+                        "gov_value" : "Balqa"
+                    },
+                    {
+                        "gov_name" : "Karak",
+                        "gov_value" : "Karak"
+                    },
+                    {
+                        "gov_name" : "Tafileh",
+                        "gov_value" : "Tafileh"
+                    },
+                    {
+                        "gov_name" : "Aqaba",
+                        "gov_value" : "Aqaba"
+                    },
+                    {
+                        "gov_name": "Maan",
+                        "gov_value": "Maan"
+                    }
+                ]
+            },
+            "Links" : [
+                {
+                    "text":"Are you a Lawyer? signup here..",
+                    "path":"/signup/Lawyer"
+                },
+                {
+                    "text":"Already have an Account? Login..",
+                    "path":"/login/regular"
+                }
+            ],
+            "Allow_Notifications":"Allow notifications?",
+            "Register_Btn" : "Register",
+            "MessageSent": "A Message with a code Has been sent to your phone number.",
+            "Code":"Code",
+            "Verify_Btn":"Verify",
+            "LawyerQuestionMark": "Are you a lawyer? Signup Here."
+        }
+    }
+}

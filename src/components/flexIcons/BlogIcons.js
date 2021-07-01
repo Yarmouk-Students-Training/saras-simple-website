@@ -1,0 +1,34 @@
+
+import React from 'react';
+import {Link , createStyles ,Box , makeStyles ,Theme,Typography}from '@material-ui/core';
+import PersonIcon from '@material-ui/icons/Person';
+import ChatIcon from '@material-ui/icons/Chat';
+import CreateIcon from '@material-ui/icons/Create';
+import AssignmentIcon from '@material-ui/icons/Assignment';
+import { getData, getDataFile } from "../../data/index";
+
+
+const useStyles = makeStyles(() =>
+  createStyles({
+    icons:{
+        color:"#003d66",
+
+    },
+  
+    
+    }),
+    );
+export default function ClickBlogs() {
+    const classes = useStyles();
+    const data = getDataFile("NavInf", "En");
+
+    return ( 
+        <Box display="flex" marginLeft="2rem" >
+            < AssignmentIcon  className={classes.icons}/>
+            <Typography  variant="body2">
+               {data.Blogs}
+            </Typography>      
+        </Box>
+     );
+}
+// export default ProfileNav;

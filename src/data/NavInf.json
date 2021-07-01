@@ -1,0 +1,16 @@
+{
+    "NavInf": {
+        "Ar": {
+            "About": "حول",
+            "Comment": "التعليقات",
+            "Blogs": "المدونه",
+            "Edit": "تعديل الملف"
+        },
+        "En": {
+            "About": "About",
+            "Comment": "Comment",
+            "Blogs": "Blogs",
+            "Edit": "Edit"
+        }
+    }
+}

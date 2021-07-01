@@ -1,0 +1,102 @@
+{
+    "Header": {
+        "Ar": {
+            "Title":"محامي",
+            "mainLinks":[
+                { 
+                    "path":"/", 
+                    "text": "الصفحة الرئيسية"
+                },
+                {
+                    "path":"/lawyers", 
+                    "text":"المحامون" 
+                },
+                {
+                    "path":"/cases",
+                    "text":"القضايا"
+                },
+                {
+                    "path":"/blogs", 
+                    "text":"المقالات"
+                }
+            ],
+            "userLinks":[
+                {
+                    "path":"/login", 
+                    "text": "تسجيل دخول"
+                },
+                {
+                    "path":"/register", 
+                    "text": "انشاء حساب"
+                }
+            ],
+            "userProfile":[
+                {
+                    "text": "ترقية"
+                },
+                {
+                    "text": "الملف الشخصي"
+                },
+                {
+                    "text": "تسجيل خروج"
+                }
+            ],
+            "Languages":{
+                "Text":"اللغة",
+                "Arabic": "العربية",
+                "English": "الإنجليزية"
+            }
+        },
+        "En": {
+            "Title" : "Mo7amy",
+            "Lang":{
+                "Arabic": "Arabic",
+                "English": "English"
+            },
+            "mainLinks":[
+                { 
+                    "path":"/", 
+                    "text": "Home"
+                },
+                {
+                    "path":"/lawyers", 
+                    "text":"Lawyers" 
+                },
+                {
+                    "path":"/cases",
+                    "text":"Cases"
+                },
+                {
+                    "path":"/blogs", 
+                    "text":"Blogs"
+                }
+            ],
+            "userLinks":[
+                {
+                    "path":"/login", 
+                    "text": "Login"
+                },
+                {
+                    "path":"/register", 
+                    "text": "Register"
+                }
+            ],
+            "userProfile":[
+                {   
+                    "text": "Upgrade"
+                },
+                {
+                    "text": "My profile"
+                },
+                {
+                    "text": "Logout"
+                }
+            ],
+            "Languages":{
+                "Text":"Language",
+                "Arabic": "Arabic",
+                "English": "English"
+            }
+        }
+    }
+}
